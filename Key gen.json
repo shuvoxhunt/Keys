@@ -4,7 +4,7 @@
 
   "title": "Premium Login",
   "descriptions": [
-    "Welcome to Premium Access.",
+    "Welcome,to Premium Access.",
     "Enter your password to continue.",
     "Make sure your device is registered."
   ],
@@ -12,13 +12,13 @@
   "button_login": "Login",
   "button_admin": "Admin",
   "button_copy": "Copy ID",
-  "admin_url": "https://google.com",
+  "admin_url": "https://shuvoMichael",
 
   "device_section": [
     {
-      "device_id": "1234567890abcdef",
+      "device_id": "9aa620d0251e76ac",
       "password": "1122",
-      "expire_date": "2025-12-31"
+      "expire_date": "2028-12-31"
     },
     {
       "device_id": "abcdef9876543210",
