@@ -1,12 +1,13 @@
 {
-  "dialog_enable": true,
+  "dialog_enable": false,
   "online_enable": true,
 
   "title": "Premium Login",
   "descriptions": [
-    "Welcome,to Premium Access.",
-    "Enter your password to continue.",
-    "Make sure your device is registered."
+    "•Moded By Shuvo & Unlocked Pro.",
+    "•Welcome,to Premium Access.",
+    "•Enter your password to continue.",
+    "•Make sure your device is registered."
   ],
 
   "button_login": "Login",
@@ -18,7 +19,7 @@
     {
       "device_id": "9aa620d0251e76ac",
       "password": "1122",
-      "expire_date": "202-12-31"
+      "expire_date": "2029-12-31"
     },
     {
       "device_id": "abcdef9876543210",
