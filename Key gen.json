@@ -1,5 +1,5 @@
 {
-  "dialog_enable": false,
+  "dialog_enable": true,
   "online_enable": true,
 
   "title": "Premium Login",
@@ -18,7 +18,7 @@
   "device_section": [
     {
       "device_id": "9aa620d0251e76ac",
-      "password": "1122",
+      "password": "SHUVOX",
       "expire_date": "2029-12-31"
     },
     {
